@@ -1,9 +1,10 @@
 This project was developed using Visual Studio 2022. It would be better if you use the same version.
 The VS Studio's in-built SQL server was used for developing the backend part of the software.
 
+You can also refer to the documentation file (Documentation -Payroll Management System.pdf) to know more about the application.
+
 --SETTING UP---
 Download all the files and folders.
-
 Open the project in VS Studio and add connection to the SQL file(PayrollDb.mdf) and also make sure to change the Connection String appropriately in each page.
 
 
