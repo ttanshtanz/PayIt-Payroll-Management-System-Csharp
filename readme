@@ -2,9 +2,8 @@ This project was developed using Visual Studio 2022. It would be better if you u
 The VS Studio's in-built SQL server was used for developing the backend part of the software.
 
 --SETTING UP--
-Download all the folders.
-Add the all folders to the folder Payroll-System-Files.
+Download all the files and folders.
 
-Open the project in VS Studio and add connection to the mdf file(PayrollDb.mdf) and also make sure to chnage the Connection String appropriately.
+Open the project in VS Studio and add connection to the SQL file(PayrollDb.mdf) and also make sure to change the Connection String appropriately in each page.
 
 
