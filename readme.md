@@ -7,10 +7,8 @@ PayIt is a comprehensive Payroll Management System designed to automate existing
 - [Introduction](#introduction)
 - [Features](#features)
 - [System Overview](#system-overview)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+- [Screenshots](#Screenshots)
+  
 ## Introduction
 
 'PayIt - Payroll Management System' automates the payroll process, making it easier for organizations to manage employee data, salary, attendance, and feedback. The application provides a seamless experience for administrators and users alike.
@@ -37,4 +35,16 @@ PayIt is a comprehensive Payroll Management System designed to automate existing
 ## System Overview
 
 The project is developed using C# .NET for the front end, Visual Studio 2022 as the IDE, and SQL Server for the back end. The system operates on the Windows operating system.
+
+## Screenshots
+![image](https://github.com/ttanshtanz/Payroll-Management-System-Csharp/assets/88208439/cfc2d829-e423-406e-a34d-56b9ac99104a)
+
+![image](https://github.com/ttanshtanz/Payroll-Management-System-Csharp/assets/88208439/95dfad65-40ac-4cdb-a8e2-eaa601670232)
+
+![image](https://github.com/ttanshtanz/Payroll-Management-System-Csharp/assets/88208439/ebd3720a-7c72-4744-b5f5-976bb983dc09)
+
+![image](https://github.com/ttanshtanz/Payroll-Management-System-Csharp/assets/88208439/75b21807-5ab6-4fc9-be16-a51be579ded3)
+
+![image](https://github.com/ttanshtanz/Payroll-Management-System-Csharp/assets/88208439/e7f13960-d643-438f-8397-e99ba641ac49)
+
 
