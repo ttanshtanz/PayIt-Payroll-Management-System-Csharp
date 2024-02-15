@@ -1,7 +1,5 @@
 # PayIt - Payroll Management System
 
-![PayIt Logo](insert_logo_url_here)
-
 PayIt is a comprehensive Payroll Management System designed to automate existing manual processes. Developed with C# .NET for the front end, Visual Studio 2022 as the Integrated Development Environment (IDE), and SQL Server for the back end, this system ensures efficient handling of employee data and payroll tasks. It offers a user-friendly interface for administrators and employees to manage and access information effortlessly.
 
 ## Table of Contents
@@ -9,7 +7,6 @@ PayIt is a comprehensive Payroll Management System designed to automate existing
 - [Introduction](#introduction)
 - [Features](#features)
 - [System Overview](#system-overview)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -41,23 +38,3 @@ PayIt is a comprehensive Payroll Management System designed to automate existing
 
 The project is developed using C# .NET for the front end, Visual Studio 2022 as the IDE, and SQL Server for the back end. The system operates on the Windows operating system.
 
-## Installation
-
-To set up the PayIt system locally, follow these steps:
-
-1. Clone the repository: `git clone <repository_url>`
-2. Install necessary dependencies.
-3. Configure the database connection in the settings.
-4. Run the application using Visual Studio.
-
-## Usage
-
-Detailed instructions on how to use the system can be found in the [user manual](insert_link_to_user_manual).
-
-## Contributing
-
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
